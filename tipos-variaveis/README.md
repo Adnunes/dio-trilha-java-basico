@@ -1,18 +1,8 @@
-## Getting Started
+## Tipos de dados
+No java, existem alguma palavras reservadas para a representação de dados básicos.
+tipos primitivos: int, byte, short, long, float, double, boolean e char (não são objetos, representam valores brutos)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+int, byte, short, long são numeros inteiros o que muda é a capacidade de memória e tamanho desse numero. O mais comum é a numeração int.
 
-## Folder Structure
+float e double representam o tipo primitivo que pode contar parte fracionára, também se diferenciam pelo tamanho do número 
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).

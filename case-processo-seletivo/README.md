@@ -1,6 +1,4 @@
 <h1> Cases </h1>
-<hr/>
-
 
 <ul>
 <li> Case 1: Vamos imaginar que em um processo seletivo, existe o valor base salarial de R$ 2.000,00 e o salário pretentido pelo candidato. Vamos elaborar um controle de fluxo onde:<br/>
